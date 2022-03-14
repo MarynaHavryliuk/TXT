@@ -1,0 +1,4 @@
+  name: Maryna Havryliuk
+  age: 23
+  number of pets: 0
+  salary request: 500$
